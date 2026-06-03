@@ -20,7 +20,7 @@ class Config:
         self.SESSION3 = getenv("SESSION3", None)
 
         self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Egoistic_You")
-        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+1hA_faGyu85iY2Rl")
+        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Y-YDCBabr98zMDU9")
 
         self.AUTO_END: bool = getenv("AUTO_END", False)
         self.AUTO_LEAVE: bool = getenv("AUTO_LEAVE", False)
